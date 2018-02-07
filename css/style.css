@@ -782,6 +782,12 @@ section .line_area {
   background-position: 50% 50%
 }
 
+.sub_back9 {
+  background: url("../images/middle_main.png");
+  background-size: cover;
+  background-position: 50% 50%
+}
+
 .kh_paddingtop {
   padding: 10px 0 !important
 }

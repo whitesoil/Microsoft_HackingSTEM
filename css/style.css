@@ -1342,9 +1342,12 @@ section .line_area {
     box-sizing: border-box;
     border: 0 solid #000
   }
+
   #mine_section5 .subsite_width .wid50 img {
     width: 100%
   }
+
+
   .jw_line {
     width: 48px !important
   }
@@ -1385,10 +1388,10 @@ section .line_area {
   }
 
   .ky_img2 {
-    width: 100%
+    width: 100%;
   }
   .ky_img2 img {
-    width: 10% !important
+    width: 35% !important
   }
 
   .ky_height {

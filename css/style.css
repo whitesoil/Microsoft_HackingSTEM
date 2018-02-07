@@ -261,6 +261,10 @@ header .jw_menu_area .menu_width .wid60 {
   padding-top: 20px
 }
 
+header .jw_menu_area .menu_width .wid80 {
+  padding-top: 20px
+}
+
 header .jw_menu_area .menu_width ul.jw_menu {
   color: #fff
 }
@@ -458,27 +462,6 @@ section .line_area {
 }
 
 .mine_section3 .flullwid50 .left {
-  float: right
-}
-
-.mine_section8 .sec3_back {
-  background: url("../images/sub_img3.jpg");
-  background-size: cover;
-  background-position: 50% 50%
-}
-
-.mine_section8 .flullwid50 .jw_table_area {
-  width: 600px !important;
-  height: 780px;
-  display: table
-}
-
-.mine_section8 .flullwid50 .jw_table_area .table_cell {
-  display: table-cell;
-  vertical-align: middle
-}
-
-.mine_section8 .flullwid50 .left {
   float: right
 }
 
@@ -1095,6 +1078,22 @@ section .line_area {
   width: 40% !important
 }
 
+#office365_link  a:link{
+  text-decoration: underline;
+  color:green;
+}
+
+#office365_link  a:hover{
+  text-decoration: underline;
+  color:hotpink;
+}
+
+#office365_link  a:visited{
+  text-decoration: underline;
+  color:green;
+}
+
+
 .teach_schedule .teacher_back2 {
   background: url("../images/sub6_img8.jpg");
   height: 710px
@@ -1384,6 +1383,14 @@ section .line_area {
   .ky_img img {
     width: 10% !important
   }
+
+  .ky_img2 {
+    width: 100%
+  }
+  .ky_img2 img {
+    width: 10% !important
+  }
+
   .ky_height {
     height: 350px !important
   }
@@ -1412,6 +1419,12 @@ section .line_area {
     width: 80%;
     padding-top: 20px
   }
+
+  header .jw_menu_area .menu_width .wid80 {
+    width: 80%;
+    padding-top: 20px
+  }
+
   header .jw_menu_area .menu_width .wid40 {
     width: 20%
   }
@@ -1784,6 +1797,11 @@ section .line_area {
   header .jw_menu_area .menu_width .wid60 {
     width: 50%
   }
+
+  header .jw_menu_area .menu_width .wid80 {
+    width: 50%
+  }
+
   header .jw_menu_area .menu_width .wid40 {
     width: 50%
   }

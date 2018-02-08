@@ -753,19 +753,25 @@ section .line_area {
 }
 
 .mine_section8 .sec5_back {
-  background: url("../images/sub5_2.png");
+  background: url("../images/stem2_2.png");
   background-size: cover;
   background-position: 50% 50%
 }
 
 .mine_section8 .sec6_back {
-  background: url("../images/sub5_3.jpg");
+  background: url("../images/stem2_1.jpg");
   background-size: cover;
   background-position: 50% 50%
 }
 
 .mine_section8 .sec7_back {
-  background: url("../images/sub5_4_2.png");
+  background: url("../images/stem2_3.png");
+  background-size: cover;
+  background-position: 50% 50%
+}
+
+.mine_section8 .sec8_back {
+  background: url("../images/stem2_2.png");
   background-size: cover;
   background-position: 50% 50%
 }
@@ -778,6 +784,18 @@ section .line_area {
 
 .sub_back8 {
   background: url("../images/sub5_5.png");
+  background-size: cover;
+  background-position: 50% 50%
+}
+
+.sub_back9 {
+  background: url("../images/stem3.png");
+  background-size: cover;
+  background-position: 50% 50%
+}
+
+.sub_back10 {
+  background: url("../images/stem8.jpg");
   background-size: cover;
   background-position: 50% 50%
 }

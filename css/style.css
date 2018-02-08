@@ -613,6 +613,15 @@ section .line_area {
   margin: 0 10px
 }
 
+.temp_btn {
+  display: inline-block;
+  border: 1px solid #ff6600;
+  padding: 10px 30px 15px;
+  color: #ff6600 !important;
+  font-size: 22px;
+  margin: 0 10px
+}
+
 .sub_back6 {
   background: url("../images/sub_img11.jpg");
   background-size: cover;
@@ -771,7 +780,7 @@ section .line_area {
 }
 
 .mine_section8 .sec8_back {
-  background: url("../images/stem2_2.png");
+  background: url("../images/stem7.png");
   background-size: cover;
   background-position: 50% 50%
 }

@@ -1,2 +1,1 @@
-# outsourcing
-microsoft
+기존 css 파일에 속성 덧 붙여 작업했습니다.

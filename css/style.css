@@ -149,6 +149,14 @@ body {
   letter-spacing: -2px
 }
 
+.custom_font{
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40px;
+  font-family: "Segoe UI", sans-serif
+  letter-spacing: -2px
+}
+
 .jw_h1 b {
   font-weight: 600 !important
 }
@@ -170,6 +178,10 @@ body {
 }
 
 .jw_h6 b {
+  font-weight: 600 !important
+}
+
+.custom_font b{
   font-weight: 600 !important
 }
 
@@ -743,6 +755,11 @@ section .line_area {
   padding: 20px 0
 }
 
+#ky_section1 .subsite_width .custom_font {
+  display: block;
+  padding: 20px 0
+}
+
 .mine_section3 .sec5_back {
   background: url("../images/sub5_2.png");
   background-size: cover;
@@ -1295,6 +1312,14 @@ section .line_area {
     line-height: 25px;
     font-family: "Segoe UI", sans-serif
   }
+
+  .custom_font{
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 40px;
+    font-family: "Segoe UI", sans-serif
+  }
+
   #jw_content .wid50 .jw_subtitle {
     display: block;
     font-size: 20px;
@@ -1573,6 +1598,13 @@ section .line_area {
     line-height: 25px;
     font-family: "Segoe UI", sans-serif
   }
+
+  .custom_font{
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    font-family: "Segoe UI", sans-serif
+  }
   #jw_content .wid50 .jw_subtitle {
     display: block;
     font-size: 16px;
@@ -1672,6 +1704,14 @@ section .line_area {
     line-height: 25px;
     font-family: "Segoe UI", sans-serif
   }
+
+  .custom_font{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    font-family: "Segoe UI", sans-serif
+  }
+
   #jw_content .wid50 .jw_subtitle {
     display: block;
     font-size: 14px;

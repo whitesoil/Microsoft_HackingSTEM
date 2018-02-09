@@ -1,4 +1,4 @@
-# Hacking STEM 외주 페이지 작업 안내
+# Microsoft Hacking STEM 외주 페이지 작업 안내
 
 * 기존 style.css 파일에 덧 붙여 작업했습니다. 기존 css는 건드리지 않고 추가만 하였습니다. style.css를 제외하고는 변경된 css파일 없습니다.
 

@@ -8,6 +8,6 @@
 
 * stem0 ~ stem11.xxx image파일들을 제외한 다른 이미지 파일들은 msedukorea.com 공통 이미지들 입니다.
 
-* Git Page Link : https://whitesoil.github.io/outsourcing/
+* Git Page Link : https://whitesoil.github.io/Microsoft_HackingSTEM/
 
 
